@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{705D4ACC-F6E0-5827-4C2F-3F7357E856A0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bonus.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bonus.cs" Line="35" Column="22" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/MaterialPulse.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9a0e4f1f-68d5-4e59-9249-2cd5ec496fc3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lindsaywelhoelter/Unity Projects/Scripting in Unity/Assets/Scripts/MaterialPulse.cs" relfile="Assets/Scripts/MaterialPulse.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
